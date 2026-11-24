@@ -1,228 +1,105 @@
 <div align="center">
 
 <a href="https://taghreed-louz-portfolio.lovable.app/">
-  <img src="./profile-header.gif" width="100%" alt="Taghreed Louz — Mobile Apps Developer. Animated mobile interface and Flutter development banner." />
+  <img src="./profile-header.gif" width="100%" alt="Taghreed Louz — animated portfolio featuring Rawnaq, AMAR, VibeLocate AI and My Doctor." />
 </a>
-
-<br />
-
-**FLUTTER & NATIVE ANDROID DEVELOPER**
-
-Thoughtful interfaces. Reliable functionality. Details that make a difference.
-
-<br />
-
-<a href="https://taghreed-louz-portfolio.lovable.app/"><strong>EXPLORE MY PORTFOLIO ↗</strong></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/taghreed-louz"><strong>LINKEDIN ↗</strong></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="mailto:taghreedlouz7@gmail.com"><strong>LET'S TALK ↗</strong></a>
 
 <br /><br />
 
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>3+ YEARS</strong><br />
-<sub>Mobile development experience</sub>
-</td>
-<td align="center" width="33%">
-<strong>ANDROID & iOS</strong><br />
-<sub>Flutter and native Android apps</sub>
-</td>
-<td align="center" width="33%">
-<strong>ARABIC & ENGLISH</strong><br />
-<sub>Interfaces that work both ways</sub>
-</td>
-</tr>
-</table>
+<a href="https://taghreed-louz-portfolio.lovable.app/"><img src="./assets/button-portfolio.svg" width="180" alt="View my portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/taghreed-louz"><img src="./assets/button-linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="mailto:taghreedlouz7@gmail.com"><img src="./assets/button-email.svg" width="180" alt="Get in touch by email" /></a>
 
 </div>
 
 <br />
 
-## Behind the apps
+I'm **Taghreed Louz**, a mobile apps developer from **Gaza, Palestine**, with **3+ years of experience** in Flutter and native Android development.
 
-I'm **Taghreed Louz**, a mobile apps developer from **Gaza, Palestine**.
-
-I take ideas from the design stage to working applications, combining Flutter and native Android development with careful UI implementation, API integration, and reliable data handling.
-
-My work includes shopping apps, customer and driver platforms, appointment booking, location-based experiences, and personal productivity tools.
-
-I enjoy the details: a smooth transition, a clear interaction, a well-structured feature, and a screen that feels right on every device.
-
-<br />
-
-## From concept to experience
-
-| Design & Interface | Development & Integration | Quality & Refinement |
-| :--- | :--- | :--- |
-| Figma-to-code implementation | Flutter for Android & iOS | Testing and debugging |
-| Responsive mobile layouts | Native Android development | Performance improvements |
-| Arabic RTL and English UI | REST APIs and Firebase | Maintainable app structure |
-| Consistent navigation | Local storage and app state | Careful attention to detail |
-
-<br />
-
-## My development toolkit
-
-**Mobile**
-
-<kbd>Flutter</kbd>
-<kbd>Dart</kbd>
-<kbd>Android</kbd>
-<kbd>Java</kbd>
-<kbd>Kotlin</kbd>
-
-**Backend & Data**
-
-<kbd>REST APIs</kbd>
-<kbd>Firebase</kbd>
-<kbd>Cloud Firestore</kbd>
-<kbd>SQLite</kbd>
-<kbd>Room</kbd>
-<kbd>MySQL</kbd>
-
-**Design & Workflow**
-
-<kbd>Figma</kbd>
-<kbd>Android Studio</kbd>
-<kbd>VS Code</kbd>
-<kbd>Git</kbd>
-<kbd>GitHub</kbd>
-<kbd>Postman</kbd>
-
-<br />
+I turn designs into working apps, connect them to APIs and data, and refine the details that make them easy to use. My work includes shopping, delivery, real estate, healthcare, and productivity apps, with Arabic and English interfaces.
 
 ## Selected work
 
-A selection of the mobile experiences I've worked on.
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<h3>01 — Rawnaq</h3>
-<p><strong>A modern fashion shopping experience.</strong></p>
-
-<p>Product discovery, favorites, cart, checkout, and order tracking brought together in a Flutter application.</p>
-
-<p><sub>FLUTTER · ANDROID · iOS · E-COMMERCE</sub></p>
-
-<a href="https://github.com/TaghreedLouz/rawnaq"><strong>Explore the repository ↗</strong></a>
-
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/rawnaq-fashion-shopping-app"><img src="./assets/rawnaq.png" width="100%" alt="Rawnaq shopping application screens." /></a>
+<h3>Rawnaq</h3>
+<p>A fashion shopping app with product discovery, favorites, cart management, and checkout.</p>
+<p><sub>FLUTTER · DART · GETX · REST APIs</sub></p>
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/rawnaq-fashion-shopping-app"><strong>View case study ↗</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/TaghreedLouz/rawnaq">Source code</a>
 </td>
 <td width="50%" valign="top">
-
-<h3>02 — AMAR</h3>
-<p><strong>Two apps. One connected delivery experience.</strong></p>
-
-<p>Customer and driver applications with service ordering, address selection, maps, and order tracking.</p>
-
-<p><sub>FLUTTER · CUSTOMER & DRIVER · DELIVERY</sub></p>
-
-<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
-
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/amar-delivery-app"><img src="./assets/amar.png" width="100%" alt="AMAR customer and driver application screens." /></a>
+<h3>AMAR</h3>
+<p>Connected customer and driver apps for delivery, home services, addresses, and order tracking.</p>
+<p><sub>FLUTTER · GETX · GOOGLE MAPS · REST APIs</sub></p>
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/amar-delivery-app"><strong>View case study ↗</strong></a>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<h3>03 — VibeLocate AI</h3>
-<p><strong>Discover places. Search smarter.</strong></p>
-
-<p>A map-based mobile experience for exploring locations, searching for places, and finding relevant results.</p>
-
-<p><sub>FLUTTER · MAPS · LOCATION</sub></p>
-
-<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
-
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/vibelocate-ai"><img src="./assets/vibelocate.png" width="100%" alt="VibeLocate AI property discovery and map screens." /></a>
+<h3>VibeLocate AI</h3>
+<p>Real estate discovery with AI-powered search, interactive maps, and property listings.</p>
+<p><sub>FLUTTER · AI SEARCH · MAPS · API INTEGRATION</sub></p>
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/vibelocate-ai"><strong>View case study ↗</strong></a>
 </td>
 <td width="50%" valign="top">
-
-<h3>04 — Outreach</h3>
-<p><strong>Mobile technology for accessible transport.</strong></p>
-
-<p>Passenger and driver apps supporting accessible transportation, communication, and real-time tracking.</p>
-
-<p><sub>NATIVE ANDROID · ACCESSIBILITY · TRANSPORT</sub></p>
-
-<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
-
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/my-doctor"><img src="./assets/my-doctor.png" width="100%" alt="My Doctor healthcare and appointment screens." /></a>
+<h3>My Doctor</h3>
+<p>Doctor discovery, appointment booking, reservation management, and live waiting queues.</p>
+<p><sub>FLUTTER · DART · GETX · REST APIs</sub></p>
+<a href="https://taghreed-louz-portfolio.lovable.app/projects/my-doctor"><strong>View case study ↗</strong></a>
 </td>
 </tr>
 </table>
 
-<br />
+<p align="center">
+<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore all projects, screenshots and case studies →</strong></a>
+</p>
+
+## Tools behind the work
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Flutter, Dart, Android, Kotlin, Firebase, SQLite, Figma and Git." />
+
+**Also in my workflow:** Java · GetX · REST APIs · Cloud Firestore · Firebase Authentication · Room · MySQL · Postman.
+
+## What I bring to a project
+
+- **Design implementation:** careful Figma-to-code work, responsive screens, and consistent navigation.
+- **Connected functionality:** APIs, authentication, maps, app state, and local storage.
+- **A complete mobile experience:** Arabic RTL and English layouts, testing, debugging, and performance improvements.
 
 <details>
-<summary><strong>More projects to explore ↓</strong></summary>
+<summary><strong>Education & background</strong></summary>
 
 <br />
 
-| Project | Experience |
-| :--- | :--- |
-| **One Pass** | Password storage and management with local authentication. |
-| **Product Hub** | Shopping for digital products and subscriptions. |
-| **My Doctor** | Doctor availability and appointment booking. |
-| **One Repo** | Organizing personal information and files in one place. |
-
-[View project screenshots and details →](https://taghreed-louz-portfolio.lovable.app/projects)
-
-</details>
-
-<br />
-
-<details>
-<summary><strong>Education & background ↓</strong></summary>
-
-<br />
-
-**Bachelor's Student**  
-Programming and Mobile Application Design  
+**Bachelor's Student — Programming and Mobile Application Design**  
 UCAS College, Gaza · 2024–Present
 
-**Diploma**  
-Software and Databases  
+**Diploma — Software and Databases**  
 UCAS College, Gaza · 2023 · GPA: 93.9
 
-**Languages**  
-Arabic — Native  
-English — Very Good
+**Languages:** Arabic — Native · English — Very Good
 
 </details>
 
 <br />
 
----
+<a href="mailto:taghreedlouz7@gmail.com">
+<img src="./assets/contact.svg" width="100%" alt="Have an idea? Let's make it real! Contact Taghreed Louz." />
+</a>
 
-<div align="center">
-
-<br />
-
-### Your next idea could be your next app.
-
-Have a design to bring to life, a feature to build, or an app to improve?
-
-Let's talk about it.
-
-<br />
-
-<a href="mailto:taghreedlouz7@gmail.com"><strong>START A CONVERSATION ↗</strong></a>
-
-<br /><br />
-
+<p align="center">
 <a href="https://taghreed-louz-portfolio.lovable.app/">Portfolio</a>
-&nbsp; / &nbsp;
+&nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/taghreed-louz">LinkedIn</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/TaghreedLouz?tab=repositories">Repositories</a>
-
-<br /><br />
-
-<sub>Designed with intention. Developed with care.</sub>
-
-<br />
-
-</div>
+&nbsp; · &nbsp;
+<a href="mailto:taghreedlouz7@gmail.com">Email</a>
+</p>
