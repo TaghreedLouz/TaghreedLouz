@@ -1,98 +1,228 @@
 <div align="center">
-  <a href="https://taghreed-louz-portfolio.lovable.app/">
-    <img src="https://taghreed-louz-portfolio.lovable.app/assets/taghreed-logo-CtDpcU_X.png" width="88" alt="Taghreed Louz — TL logo" />
-  </a>
-  <h1>Hi, I'm Taghreed Louz 👋</h1>
-  <p><strong>Mobile Apps Developer · Flutter & Native Android</strong></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=C24BA1&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Every+idea+deserves+to+become+more;than+just+a+design...;Flutter+%26+Native+Android+Developer;Focused+on+craft%2C+motion+%26+details." width="100%" alt="Every idea deserves to become more than just a design. Flutter and native Android developer, focused on craft, motion and details." />
+<a href="https://taghreed-louz-portfolio.lovable.app/">
+  <img src="./profile-header.gif" width="100%" alt="Taghreed Louz — Mobile Apps Developer. Animated mobile interface and Flutter development banner." />
+</a>
 
-  <p>
-    <a href="https://taghreed-louz-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-B12B6E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
-    <a href="https://www.linkedin.com/in/taghreed-louz"><img src="https://img.shields.io/badge/LinkedIn-30AFF8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-    <a href="mailto:taghreedlouz7@gmail.com"><img src="https://img.shields.io/badge/Email-A27DFA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Taghreed" /></a>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:EC86CC,50:30AFF8,100:A27DFA&amp;height=5&amp;section=header" width="100%" alt="Pink, blue and purple brand gradient" />
-</div>
+<br />
 
-## A little about me
+**FLUTTER & NATIVE ANDROID DEVELOPER**
+
+Thoughtful interfaces. Reliable functionality. Details that make a difference.
+
+<br />
+
+<a href="https://taghreed-louz-portfolio.lovable.app/"><strong>EXPLORE MY PORTFOLIO ↗</strong></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/taghreed-louz"><strong>LINKEDIN ↗</strong></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="mailto:taghreedlouz7@gmail.com"><strong>LET'S TALK ↗</strong></a>
+
+<br /><br />
 
 <table>
 <tr>
-<td width="65%" valign="top">
-
-I'm an **Android & Flutter developer from Gaza, Palestine**, with **3+ years of experience** building efficient, user-centric mobile apps.
-
-I turn ideas and designs into apps that are clear and easy to use. From design to launch, I care about clean, scalable code, precise interfaces, and the small details that make a product feel alive.
-
-- 📱 Flutter apps for **Android & iOS**, plus native Android development.
-- 🎨 Careful **Figma-to-code** implementation and responsive layouts.
-- 🔗 API integration, Firebase, and local data storage.
-- 🧪 Testing, debugging, and performance improvements.
-- 🌍 **Arabic & English** app experiences.
-
+<td align="center" width="33%">
+<strong>3+ YEARS</strong><br />
+<sub>Mobile development experience</sub>
 </td>
-<td width="35%" align="center" valign="middle">
-  <img src="https://taghreed-louz-portfolio.lovable.app/assets/flutter-hero-toKE8gjb.png" width="280" alt="Flutter mobile development illustration from my portfolio" />
+<td align="center" width="33%">
+<strong>ANDROID & iOS</strong><br />
+<sub>Flutter and native Android apps</sub>
+</td>
+<td align="center" width="33%">
+<strong>ARABIC & ENGLISH</strong><br />
+<sub>Interfaces that work both ways</sub>
 </td>
 </tr>
 </table>
 
-## The tools of the trade
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-30AFF8?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-30AFF8?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-B12B6E?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-B12B6E?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-A27DFA?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
-  <br />
-  <img src="https://img.shields.io/badge/Firebase-B12B6E?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-A27DFA?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-30AFF8?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-B12B6E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <br />
-  <img src="https://img.shields.io/badge/Android_Studio-A27DFA?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Git-B12B6E?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-A27DFA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-30AFF8?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
 </div>
 
-<p align="center">Firebase Authentication · Cloud Firestore · Firebase Storage · FCM<br />Room Database · SharedPreferences · Clean Code · Testing & QA</p>
+<br />
+
+## Behind the apps
+
+I'm **Taghreed Louz**, a mobile apps developer from **Gaza, Palestine**.
+
+I take ideas from the design stage to working applications, combining Flutter and native Android development with careful UI implementation, API integration, and reliable data handling.
+
+My work includes shopping apps, customer and driver platforms, appointment booking, location-based experiences, and personal productivity tools.
+
+I enjoy the details: a smooth transition, a clear interaction, a well-structured feature, and a screen that feels right on every device.
+
+<br />
+
+## From concept to experience
+
+| Design & Interface | Development & Integration | Quality & Refinement |
+| :--- | :--- | :--- |
+| Figma-to-code implementation | Flutter for Android & iOS | Testing and debugging |
+| Responsive mobile layouts | Native Android development | Performance improvements |
+| Arabic RTL and English UI | REST APIs and Firebase | Maintainable app structure |
+| Consistent navigation | Local storage and app state | Careful attention to detail |
+
+<br />
+
+## My development toolkit
+
+**Mobile**
+
+<kbd>Flutter</kbd>
+<kbd>Dart</kbd>
+<kbd>Android</kbd>
+<kbd>Java</kbd>
+<kbd>Kotlin</kbd>
+
+**Backend & Data**
+
+<kbd>REST APIs</kbd>
+<kbd>Firebase</kbd>
+<kbd>Cloud Firestore</kbd>
+<kbd>SQLite</kbd>
+<kbd>Room</kbd>
+<kbd>MySQL</kbd>
+
+**Design & Workflow**
+
+<kbd>Figma</kbd>
+<kbd>Android Studio</kbd>
+<kbd>VS Code</kbd>
+<kbd>Git</kbd>
+<kbd>GitHub</kbd>
+<kbd>Postman</kbd>
+
+<br />
 
 ## Selected work
 
-| App | What it does | Platform |
-| --- | --- | --- |
-| **[Rawnaq](https://github.com/TaghreedLouz/rawnaq)** | A fashion shopping experience with product browsing, favorites, cart, checkout, and orders. | Flutter · Android · iOS |
-| **AMAR** | Customer and driver apps for services, delivery, addresses, maps, and order tracking. | Flutter · Android · iOS |
-| **VibeLocate AI** | A mobile experience for discovering places and searching smarter. | Flutter |
-| **One Pass** | Password storage and management with local authentication. | Flutter |
-| **Outreach** | Passenger and driver apps for accessible transportation and real-time tracking. | Native Android |
-| **Product Hub** | A digital products and subscriptions shopping app. | Flutter |
-| **My Doctor** | Doctor availability and appointment booking in a mobile app. | Flutter · Android · iOS |
-| **One Repo** | A secure digital space for personal information and files. | Flutter · Android · iOS |
+A selection of the mobile experiences I've worked on.
 
-<p align="center">
-  <a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>View projects, screenshots & details →</strong></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Always learning, always building
+<h3>01 — Rawnaq</h3>
+<p><strong>A modern fashion shopping experience.</strong></p>
 
-🎓 **Bachelor's student — Programming and Mobile Application Design**<br />
+<p>Product discovery, favorites, cart, checkout, and order tracking brought together in a Flutter application.</p>
+
+<p><sub>FLUTTER · ANDROID · iOS · E-COMMERCE</sub></p>
+
+<a href="https://github.com/TaghreedLouz/rawnaq"><strong>Explore the repository ↗</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 — AMAR</h3>
+<p><strong>Two apps. One connected delivery experience.</strong></p>
+
+<p>Customer and driver applications with service ordering, address selection, maps, and order tracking.</p>
+
+<p><sub>FLUTTER · CUSTOMER & DRIVER · DELIVERY</sub></p>
+
+<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 — VibeLocate AI</h3>
+<p><strong>Discover places. Search smarter.</strong></p>
+
+<p>A map-based mobile experience for exploring locations, searching for places, and finding relevant results.</p>
+
+<p><sub>FLUTTER · MAPS · LOCATION</sub></p>
+
+<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 — Outreach</h3>
+<p><strong>Mobile technology for accessible transport.</strong></p>
+
+<p>Passenger and driver apps supporting accessible transportation, communication, and real-time tracking.</p>
+
+<p><sub>NATIVE ANDROID · ACCESSIBILITY · TRANSPORT</sub></p>
+
+<a href="https://taghreed-louz-portfolio.lovable.app/projects"><strong>Explore the project ↗</strong></a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<details>
+<summary><strong>More projects to explore ↓</strong></summary>
+
+<br />
+
+| Project | Experience |
+| :--- | :--- |
+| **One Pass** | Password storage and management with local authentication. |
+| **Product Hub** | Shopping for digital products and subscriptions. |
+| **My Doctor** | Doctor availability and appointment booking. |
+| **One Repo** | Organizing personal information and files in one place. |
+
+[View project screenshots and details →](https://taghreed-louz-portfolio.lovable.app/projects)
+
+</details>
+
+<br />
+
+<details>
+<summary><strong>Education & background ↓</strong></summary>
+
+<br />
+
+**Bachelor's Student**  
+Programming and Mobile Application Design  
 UCAS College, Gaza · 2024–Present
 
-🎓 **Diploma — Software and Databases**<br />
+**Diploma**  
+Software and Databases  
 UCAS College, Gaza · 2023 · GPA: 93.9
+
+**Languages**  
+Arabic — Native  
+English — Very Good
+
+</details>
+
+<br />
 
 ---
 
 <div align="center">
-  <h3>Have an idea? Let's make it real!</h3>
-  <p>From the first design to the details that make an app feel right.</p>
-  <a href="https://taghreed-louz-portfolio.lovable.app/contact"><img src="https://img.shields.io/badge/Get_in_touch-B12B6E?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="Get in touch" /></a>
-  <br /><br />
-  <sub>Crafted with care. · Taghreed Louz</sub>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EC86CC,50:30AFF8,100:A27DFA&amp;height=95&amp;section=footer" width="100%" alt="Pink, blue and purple wave footer" />
+
+<br />
+
+### Your next idea could be your next app.
+
+Have a design to bring to life, a feature to build, or an app to improve?
+
+Let's talk about it.
+
+<br />
+
+<a href="mailto:taghreedlouz7@gmail.com"><strong>START A CONVERSATION ↗</strong></a>
+
+<br /><br />
+
+<a href="https://taghreed-louz-portfolio.lovable.app/">Portfolio</a>
+&nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/taghreed-louz">LinkedIn</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/TaghreedLouz?tab=repositories">Repositories</a>
+
+<br /><br />
+
+<sub>Designed with intention. Developed with care.</sub>
+
+<br />
+
 </div>
